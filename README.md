@@ -1,32 +1,47 @@
-# Astro Starter Kit: Basics
+# 🚀 Astro Shop
 
-```sh
-npm create astro@latest -- --template basics
+```
+    🧑‍🚀
+     │
+     ▼
+    🚀
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🛍️ About This Project
 
-## 🚀 Project Structure
+Welcome to **Astro Shop** - a modern e-commerce application built with Astro! This project demonstrates the power of Astro's static site generation combined with a headless CMS architecture.
 
-Inside of your Astro project, you'll see the following folders and files:
+### Current Status
+- ✅ Astro frontend framework is set up and ready
+- ✅ Basic project structure and components
+- ❌ **WordPress connection is not yet implemented** (coming soon!)
+
+### Future Features
+- WordPress headless CMS integration
+- Product catalog management
+- Shopping cart functionality
+- Dynamic product pages
+- Admin dashboard integration
+
+## 🏗️ Project Structure
+
+Inside of your Astro Shop project, you'll see the following folders and files:
 
 ```text
 /
 ├── public/
 │   └── favicon.svg
 ├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
+│   ├── assets
+│   │   └── astro.svg
+│   ├── components
+│   │   └── Welcome.astro
+│   ├── layouts
+│   │   └── Layout.astro
+│   └── pages
+│       └── index.astro
 └── package.json
 ```
-
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
 
 ## 🧞 Commands
 
@@ -41,6 +56,17 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
+## 🌟 Next Steps
+
+1. **WordPress Integration**: Set up WordPress as a headless CMS
+2. **API Development**: Create REST API endpoints for products
+3. **UI Components**: Build shopping cart and product display components
+4. **Payment Integration**: Add payment processing capabilities
+
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+---
+
+*Built with ❤️ using Astro*
