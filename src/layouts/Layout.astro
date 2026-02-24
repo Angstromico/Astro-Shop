@@ -8,9 +8,10 @@ type Props = {
 
 const {} = Astro.props
 
+const user = "John Doe"
 ---
 <main>
- <Header />
+ <Header user={user} />
  <slot />
  <Footer />
 </main>
